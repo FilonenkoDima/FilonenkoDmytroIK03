@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v3Bv8HLhV0B1NZkP9luUihQBPRtX9uMcFNxWSfnbmvY+pevFKx9pPUKcp/6+MpmfKmPrmV+SyovmatwJLVC2VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дима\\source\\repos\\Autumn result\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дима\\.nuget\\packages\\ninject\\4.0.0-beta.1\\ninject.4.0.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}

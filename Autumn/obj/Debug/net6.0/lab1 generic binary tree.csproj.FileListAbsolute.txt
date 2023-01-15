@@ -1,0 +1,30 @@
+C:\Users\Дима\source\repos\Autumn\Autumn\bin\Debug\net6.0\lab1 generic binary tree.exe
+C:\Users\Дима\source\repos\Autumn\Autumn\bin\Debug\net6.0\lab1 generic binary tree.deps.json
+C:\Users\Дима\source\repos\Autumn\Autumn\bin\Debug\net6.0\lab1 generic binary tree.runtimeconfig.json
+C:\Users\Дима\source\repos\Autumn\Autumn\bin\Debug\net6.0\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn\Autumn\bin\Debug\net6.0\lab1 generic binary tree.pdb
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\refint\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.pdb
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\lab1 generic binary tree.genruntimeconfig.cache
+C:\Users\Дима\source\repos\Autumn\Autumn\obj\Debug\net6.0\ref\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\refint\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.pdb
+C:\Users\Дима\source\repos\Autumn result\Autumn\bin\Debug\net6.0\lab1 generic binary tree.exe
+C:\Users\Дима\source\repos\Autumn result\Autumn\bin\Debug\net6.0\lab1 generic binary tree.deps.json
+C:\Users\Дима\source\repos\Autumn result\Autumn\bin\Debug\net6.0\lab1 generic binary tree.runtimeconfig.json
+C:\Users\Дима\source\repos\Autumn result\Autumn\bin\Debug\net6.0\lab1 generic binary tree.dll
+C:\Users\Дима\source\repos\Autumn result\Autumn\bin\Debug\net6.0\lab1 generic binary tree.pdb
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\lab1 generic binary tree.genruntimeconfig.cache
+C:\Users\Дима\source\repos\Autumn result\Autumn\obj\Debug\net6.0\ref\lab1 generic binary tree.dll

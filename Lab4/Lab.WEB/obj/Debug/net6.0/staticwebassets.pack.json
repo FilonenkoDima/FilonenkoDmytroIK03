@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\.DS_Store",
+      "PackagePath": "staticwebassets\\dist\\.DS_Store"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\dist\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\AdminLTE.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\AdminLTE.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\AdminLTE.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-bootstrap-social.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-bootstrap-social.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-bootstrap-social.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-fullcalendar.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-fullcalendar.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-select2.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-select2.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-select2.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-select2.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-without-plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-without-plugins.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\alt\\AdminLTE-without-plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\AdminLTE-without-plugins.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\_all-skins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\_all-skins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\_all-skins.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-black-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black-light.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-black-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black-light.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-black.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-black.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-black.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-blue-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue-light.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-blue-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue-light.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-blue.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-blue.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-blue.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-green-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green-light.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-green-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green-light.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-green.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-green.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-green.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-purple-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple-light.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-purple-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple-light.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-purple.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-purple.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-purple.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-red-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red-light.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-red-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red-light.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-red.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-red.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-red.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-yellow-light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow-light.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-yellow-light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow-light.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-yellow.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\css\\skins\\skin-yellow.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\skins\\skin-yellow.min.css"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\dist\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\dist\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\dotnet\\Laba\\Lab.WEB\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Lab.WEB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Lab.WEB.props",
+      "PackagePath": "build\\Lab.WEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab.WEB.props",
+      "PackagePath": "buildMultiTargeting\\Lab.WEB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Lab.WEB.props",
+      "PackagePath": "buildTransitive\\Lab.WEB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

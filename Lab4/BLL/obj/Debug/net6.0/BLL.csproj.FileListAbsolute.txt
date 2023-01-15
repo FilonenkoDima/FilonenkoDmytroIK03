@@ -1,0 +1,68 @@
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\Desktop\web\Laba\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\pavlo\Desktop\web\Laba\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\pavlo\Desktop\web\Laba\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\pavlo\Desktop\web\Laba\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\pavlo\Desktop\web\Laba\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Desktop\web\Laba\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\pavlo\Desktop\web\Laba\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Laba\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Laba\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Laba\BLL\bin\Debug\net6.0\BLL.dll
+C:\Laba\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Laba\BLL\bin\Debug\net6.0\DAL.dll
+C:\Laba\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Laba\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Laba\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Laba\BLL\obj\Debug\net6.0\BLL.dll
+C:\Laba\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Laba\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Laba\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Laba\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\dotnet\Laba\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\dotnet\Laba\BLL\bin\Debug\net6.0\BLL.runtimeconfig.json
+C:\dotnet\Laba\BLL\bin\Debug\net6.0\BLL.dll
+C:\dotnet\Laba\BLL\bin\Debug\net6.0\BLL.pdb
+C:\dotnet\Laba\BLL\bin\Debug\net6.0\DAL.dll
+C:\dotnet\Laba\BLL\bin\Debug\net6.0\DAL.pdb
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.dll
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.pdb
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\BLL.genruntimeconfig.cache
+C:\dotnet\Laba\BLL\obj\Debug\net6.0\ref\BLL.dll

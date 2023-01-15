@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Lab3",
+    "\\Lab3\\DAL",
+    "\\Lab3\\DAL\\EF",
+    "\\Lab3\\DAL\\Interfaces",
+    "\\Lab3\\DAL\\Repositories"
+  ],
+  "SelectedNode": "\\Lab3\\DAL\\Repositories\\PerformanceRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

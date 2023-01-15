@@ -1,0 +1,56 @@
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\Desktop\web\Laba\Laba\bin\Debug\net6.0\DAL.deps.json
+C:\Users\pavlo\Desktop\web\Laba\Laba\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\pavlo\Desktop\web\Laba\Laba\bin\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Desktop\web\Laba\Laba\bin\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\pavlo\Desktop\web\Laba\Laba\obj\Debug\net6.0\ref\DAL.dll
+C:\Laba\Laba\bin\Debug\net6.0\DAL.deps.json
+C:\Laba\Laba\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Laba\Laba\bin\Debug\net6.0\DAL.dll
+C:\Laba\Laba\bin\Debug\net6.0\DAL.pdb
+C:\Laba\Laba\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Laba\Laba\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Laba\Laba\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Laba\Laba\obj\Debug\net6.0\DAL.dll
+C:\Laba\Laba\obj\Debug\net6.0\refint\DAL.dll
+C:\Laba\Laba\obj\Debug\net6.0\DAL.pdb
+C:\Laba\Laba\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Laba\Laba\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\bin\Debug\net6.0\DAL.deps.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\bin\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\bin\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Laba\obj\Debug\net6.0\ref\DAL.dll
+C:\dotnet\Laba\Laba\bin\Debug\net6.0\DAL.deps.json
+C:\dotnet\Laba\Laba\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\dotnet\Laba\Laba\bin\Debug\net6.0\DAL.dll
+C:\dotnet\Laba\Laba\bin\Debug\net6.0\DAL.pdb
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.dll
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\refint\DAL.dll
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.pdb
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\dotnet\Laba\Laba\obj\Debug\net6.0\ref\DAL.dll

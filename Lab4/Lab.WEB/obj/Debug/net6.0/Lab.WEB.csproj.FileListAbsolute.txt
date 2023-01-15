@@ -1,0 +1,390 @@
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.AssemblyReference.cache
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfoInputs.cache
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfo.cs
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.exe
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.deps.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.runtimeconfig.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.pdb
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.Web.Common.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\WebActivatorEx.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\BLL.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\BLL.pdb
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\scopedcss\bundle\Lab.WEB.styles.css
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CopyComplete
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\refint\Lab.WEB.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.pdb
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.genruntimeconfig.cache
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\ref\Lab.WEB.dll
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.staticwebassets.runtime.json
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cache
+C:\Users\pavlo\Desktop\web\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cs
+C:\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.json
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.staticwebassets.runtime.json
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.exe
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.deps.json
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.runtimeconfig.json
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.pdb
+C:\Laba\Lab.WEB\bin\Debug\net6.0\AutoMapper.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.Web.Common.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\WebActivatorEx.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\BLL.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\DAL.dll
+C:\Laba\Lab.WEB\bin\Debug\net6.0\BLL.pdb
+C:\Laba\Lab.WEB\bin\Debug\net6.0\DAL.pdb
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.AssemblyReference.cache
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfoInputs.cache
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfo.cs
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CoreCompileInputs.cache
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cache
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cs
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.Lab.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab.WEB.props
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab.WEB.props
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab.WEB.props
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Laba\Lab.WEB\obj\Debug\net6.0\scopedcss\bundle\Lab.WEB.styles.css
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CopyComplete
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.dll
+C:\Laba\Lab.WEB\obj\Debug\net6.0\refint\Lab.WEB.dll
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.pdb
+C:\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.genruntimeconfig.cache
+C:\Laba\Lab.WEB\obj\Debug\net6.0\ref\Lab.WEB.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.staticwebassets.runtime.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.exe
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.deps.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.runtimeconfig.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.Web.Common.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\WebActivatorEx.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\BLL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\DAL.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\BLL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\bin\Debug\net6.0\DAL.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.AssemblyReference.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfoInputs.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfo.cs
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cs
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\scopedcss\bundle\Lab.WEB.styles.css
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CopyComplete
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\refint\Lab.WEB.dll
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.pdb
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.genruntimeconfig.cache
+C:\Users\pavlo\Downloads\Telegram Desktop\Laba\Laba\Lab.WEB\obj\Debug\net6.0\ref\Lab.WEB.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\appsettings.json
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.staticwebassets.runtime.json
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.exe
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.deps.json
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.runtimeconfig.json
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Lab.WEB.pdb
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\AutoMapper.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Core.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Azure.Identity.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\EntityFramework.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Ninject.Web.Common.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.CodeDom.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Memory.Data.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\WebActivatorEx.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\BLL.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\DAL.dll
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\BLL.pdb
+C:\dotnet\Laba\Lab.WEB\bin\Debug\net6.0\DAL.pdb
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.AssemblyReference.cache
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfoInputs.cache
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.AssemblyInfo.cs
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CoreCompileInputs.cache
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cache
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.RazorAssemblyInfo.cs
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.Lab.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab.WEB.props
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab.WEB.props
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab.WEB.props
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\scopedcss\bundle\Lab.WEB.styles.css
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.csproj.CopyComplete
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.dll
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\refint\Lab.WEB.dll
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.pdb
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\Lab.WEB.genruntimeconfig.cache
+C:\dotnet\Laba\Lab.WEB\obj\Debug\net6.0\ref\Lab.WEB.dll
